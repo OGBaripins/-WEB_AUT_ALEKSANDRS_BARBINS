@@ -1,0 +1,16 @@
+{
+  "name": "test_name",
+  "last_name": "test_lastname",
+  "email": "test@cypress.io",
+  "mobile": "1234567890",
+  "subjects": "Economics",
+  "address": "test_address",
+  "state": "NCR",
+  "city": "Delhi",
+  "gender": "Other",
+  "hobbie": "Music",
+  "birth_day":"28",
+  "birth_year": "1930",
+  "birth_month": "February",
+  "path_to_file":"./cypress/files/e6fdog.jpeg"
+}
